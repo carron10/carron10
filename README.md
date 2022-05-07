@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @carron10
-- 👀 I’m interested in programming 
+- 👋 Hi, I’m Carron Muleya
+- 👀 I’m interested in programming and data science
 - 🌱 I’m currently learning java and python 
 - 💞️ I’m looking to collaborate on java android, desktop and web development 
 - 📫 You can reach me on www.cartso.co.zw
